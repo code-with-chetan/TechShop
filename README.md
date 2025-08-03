@@ -1,13 +1,9 @@
 
 # TechShop 🛒
-A fully functional e-commerce website built with HTML, CSS, and JavaScript.
+A fully functional, modern e-commerce website built with HTML5, CSS3, and modern JavaScript, featuring fast development powered by Vite and smooth, responsive carousels created using Swiper.js.
 
-## Live Demo
-## Live Demo
-[View on Netlify](techshoecom.netlify.app)  
+## 🚀 **Live Demo** 
 [View on GitHub Pages]( https://code-with-chetan.github.io/TechShop/)
-
-
 
 ## Features
 - Responsive navbar toggle
@@ -19,6 +15,6 @@ A fully functional e-commerce website built with HTML, CSS, and JavaScript.
 ## Tech Stack
 - HTML5, CSS3, JavaScript (ES6+) + swiper js
 - Vite (for faster development)
-- Netlify (for deployment)
+
 
 
