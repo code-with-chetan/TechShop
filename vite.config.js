@@ -5,7 +5,7 @@ import { resolve } from "path";
 // Export Vite configuration
 export default defineConfig({
   // Set base to relative path so assets work when opened locally or in a subfolder
-  base: "./",
+    base: '/TechShop/',
 
   build: {
     rollupOptions: {

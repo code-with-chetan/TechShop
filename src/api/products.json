@@ -6,7 +6,7 @@
         "brand": "AudioMax",
         "price": 249.99,
         "stock": 30,
-        "image": "/images/extraheadphone.PNG",
+        "image": "images/extraheadphone.PNG",
         "description": "High-fidelity wireless over-ear headphones with 40 hours of battery life, advanced active noise cancellation, deep bass, and studio-grade sound for an immersive listening experience."
     },
     
@@ -17,7 +17,7 @@
         "brand": "NextGen Tech",
         "price": 1099.99,
         "stock": 35,
-        "image": "/images/mobiles.png",
+        "image": "images/mobiles.png",
         "description": "Premium 5G smartphone featuring a cutting-edge Dimensity 9200+ chipset, 16GB RAM, 512GB storage, and a 6.8-inch LTPO AMOLED display with a 144Hz refresh rate. Ideal for gaming, photography, and high-performance multitasking."
     },
     
@@ -28,7 +28,7 @@
         "brand": "Apple",
         "price": 1299.99,
         "stock": 20,
-        "image": "/images/iphonex.png",
+        "image": "images/iphonex.png",
         "description": "Flagship smartphone powered by the latest A17 Bionic chip || 12GB RAM || 512GB storage || 6.7-inch Super Retina XDR display with ProMotion. Perfect for photography, gaming, and seamless multitasking. Premium design with advanced security and all-day battery life."
     },
     
@@ -39,7 +39,7 @@
         "brand": "DroidTech",
         "price": 899.99,
         "stock": 30,
-        "image": "/images/smartphone.png",
+        "image": "images/smartphone.png",
         "description": "Powerful Android flagship with the latest Snapdragon 8 Gen 3 processor || 16GB RAM || 512GB storage || 6.8-inch LTPO OLED display with a 120Hz refresh rate. Optimized for gaming, photography, and high-performance multitasking. Sleek design with a premium build and long-lasting battery."
     },
     
@@ -50,7 +50,7 @@
         "brand": "Samsung",
         "price": 1399.99,
         "stock": 15,
-        "image": "/images/tv.png",
+        "image": "images/tv.png",
         "description": "Elevate your home entertainment with the Samsung Curved 4K Smart TV. Featuring a stunning 65-inch QLED display with HDR10+ support || AI-powered upscaling || 120Hz refresh rate for smooth visuals. Perfect for immersive gaming, streaming, and cinematic movie experiences with Dolby Atmos sound."
     },
     
@@ -62,7 +62,7 @@
         "brand": "NoiseMax",
         "price": 129.99,
         "stock": 20,
-        "image": "/images/headphone.png",
+        "image": "images/headphone.png",
         "description": "Experience immersive sound with the NoiseMax 360 Wireless Headphones. Equipped with advanced noise cancellation, a comfortable over-ear fit, 50 hours of playtime, and seamless Bluetooth 5.2 connectivity. Ideal for music lovers, gaming, and commuting."
     },
     
@@ -73,7 +73,7 @@
         "brand": "BassFlow",
         "price": 119.99,
         "stock": 25,
-        "image": "/images/speakers.png",
+        "image": "images/speakers.png",
         "description": "Unleash rich sound with the BassFlow 500 Portable Bluetooth Speaker. Featuring 360° surround sound, powerful bass, and up to 15 hours of battery life. Perfect for both indoor and outdoor adventures."
     },
     
@@ -84,7 +84,7 @@
         "brand": "FusionTech",
         "price": 1499.99,
         "stock": 10,
-        "image": "/images/lapi.png",
+        "image": "images/lapi.png",
         "description": "Experience cutting-edge performance with the FusionBook Pro 16. Equipped with the latest i7 processor, 16GB RAM, 1TB SSD, and a 16-inch Full HD display. Perfect for professionals, creatives, and power users. Sleek design with exceptional performance."
     },
      
@@ -95,7 +95,7 @@
         "brand": "TimeX",
         "price": 249.99,
         "stock": 30,
-        "image": "/images/laptop.png",
+        "image": "images/laptop.png",
         "description":"Powerful and portable, the NovaBook X1 blends performance with elegance. Featuring a sleek design, fast processing, and all-day battery. Perfect for work, travel, and everyday computing."
     },
       
@@ -106,7 +106,7 @@
         "brand": "EdgeTech",
         "price": 799.99,
         "stock": 40,
-        "image": "/images/ediphone.PNG",
+        "image": "images/ediphone.PNG",
         "description": "The EdgePhone 12 features a 6.4-inch Super AMOLED display, 128GB storage, and a 48MP triple-camera system. Powered by a Snapdragon 888 processor, it offers exceptional performance, 5G connectivity, and a sleek design. Perfect for gaming, media, and everyday use."
     },
           
@@ -117,7 +117,7 @@
         "brand": "AudioMax",
         "price": 249.99,
         "stock": 30,
-        "image": "/images/edithead.PNG",
+        "image": "images/edithead.PNG",
         "description": "The AudioMax Pro 50 delivers premium sound with deep bass and crystal-clear highs. Featuring active noise cancellation, a 50-hour battery life, and a comfortable over-ear design. Perfect for music lovers, gaming, and professional audio work."
     },
        
@@ -128,7 +128,7 @@
     "brand": "Apple",
     "price": 1099.99,
     "stock": 40,
-    "image": "/images/iphone.png",
+    "image": "images/iphone.png",
     "description": "The iPhone 14 Pro features a 6.1-inch Super Retina XDR display, A16 Bionic chip, 128GB storage, and a triple-camera system with 48MP main lens. With 5G connectivity and a premium design, it delivers exceptional performance and photography capabilities."
 }
 
