@@ -3,7 +3,10 @@
 A fully functional e-commerce website built with HTML, CSS, and JavaScript.
 
 ## Live Demo
-[Click here](https://your-netlify-link.netlify.app)
+## Live Demo
+[View on Netlify](techshoecom.netlify.app)  
+[View on GitHub Pages]( https://code-with-chetan.github.io/TechShop/)
+
 
 
 ## Features
@@ -14,7 +17,7 @@ A fully functional e-commerce website built with HTML, CSS, and JavaScript.
 - Mobile-friendly design
 
 ## Tech Stack
-- HTML5, CSS3, JavaScript (ES6+)
+- HTML5, CSS3, JavaScript (ES6+) + swiper js
 - Vite (for faster development)
 - Netlify (for deployment)
 
