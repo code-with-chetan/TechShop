@@ -1,0 +1,1 @@
+function c(){return JSON.parse(localStorage.getItem("cartItems"))||[]}function n(t){localStorage.setItem("cartItems",JSON.stringify(t))}function o(){const t=document.getElementById("cart-page--icon"),e=(JSON.parse(localStorage.getItem("cartItems"))||[]).length;t.textContent=e}export{c as g,n as s,o as u};
